@@ -15,11 +15,10 @@ Check out the talk dates below, the theme for that date, and the suggested topic
 Once you've got a talk idea, open a new Issue by [clicking here](https://github.com/id-ruby/talks/issues/new).
 
 _Alternatively_, if you're uncomfortable posting your idea publicly, you can message us directly: @giosakti @firewalker06 @taufiqm @gozali on id_ruby slack group
-[**https://tinyurl.com/id-ruby-slack**](https://tinyurl.com/id-ruby-slack)
+[**http://ruby.id/chat**](http://ruby.id/chat)
 
 Make sure you fill out the following information:
 
-* Talk Date
 * Talk Title
 * Length
 * Description
@@ -33,14 +32,11 @@ Have a read through [this slide deck](http://www.slideshare.net/LookAtMySlides/c
 
 ### Slides
 
-Venue sometimes doesn't use a projector, but instead uses 2 flatscreen TVs that are quite a bit smaller. Because of this:
+Venue sometimes doesn't use a projector, but instead uses 2 flatscreen TVs that are quite a bit smaller. Because of this, its better to follow these guidelines:
 
 * Use very large fonts and less text per screen so your slide is legible at the back of the room
-
 * If you have code examples, we suggest you make them take up the entire screen with as large a font as possible
-
 * Minimise the use of code examples and bullet points as they will be hard to read
-
 * If you want to demo something, consider using a screen capture movie or gif. [licecap](http://www.cockos.com/licecap) is a tool that can help with this.
 
 ### Speaking
